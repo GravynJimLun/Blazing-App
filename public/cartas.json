@@ -1,0 +1,632 @@
+[
+  {
+    "id": "BLZD-EN001",
+    "nombre": "Darkness Resonator",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN002",
+    "nombre": "Power Vice Dragon",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN002",
+    "nombre": "Power Vice Dragon",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN003",
+    "nombre": "Fiend Piece Golem",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN004",
+    "nombre": "Red Nova Dragon/Assault Mode",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN005",
+    "nombre": "Assault Sonic Warrior",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN006",
+    "nombre": "Heavy Armored Knight Babeldecker",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN007",
+    "nombre": "Night Train Blue Traveler",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN008",
+    "nombre": "Predaplant Lilizard",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN009",
+    "nombre": "Predaplant Longinephila",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN010",
+    "nombre": "Vidolium the Unstable Power Patron of Unity",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN011",
+    "nombre": "Nervedo the Shadebeast Power Patron",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "",
+    "nombre": "Nervedo the Shadebeast Power Patron",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN012",
+    "nombre": "Jupredo the Shademachine Power Patron",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN013",
+    "nombre": "Junoldo the Shadespirit Power Patron",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN013",
+    "nombre": "Junoldo the Shadespirit Power Patron",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN014",
+    "nombre": "Elfnote Regina",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN014",
+    "nombre": "Elfnote Regina",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN015",
+    "nombre": "Clown Crew Biancaviso",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN016",
+    "nombre": "Fairy Tail - Matchgiru",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN016",
+    "nombre": "Fairy Tail - Matchgiru",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN017",
+    "nombre": "Mimighoul Flower",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN018",
+    "nombre": "Hecahands Mankibuel",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN019",
+    "nombre": "Trito Enneacraft - \"exapatisIA\"",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN020",
+    "nombre": "Enneacraft - Atil.SPIA",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN021",
+    "nombre": "Kewl Tune Rotary",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN021",
+    "nombre": "Kewl Tune Rotary",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN022",
+    "nombre": "Spiritual Art Familiars",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN023",
+    "nombre": "Fleeting Phantom Mask Master",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN024",
+    "nombre": "Fydraulis Harmonia",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN024",
+    "nombre": "Fydraulis Harmonia",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN024",
+    "nombre": "Fydraulis Harmonia",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN025",
+    "nombre": "Diabrocken the Ominous Specter",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN026",
+    "nombre": "Convex Knight",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN027",
+    "nombre": "Princess Dracaena, the Thirsting Tree",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "",
+    "nombre": "",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN028",
+    "nombre": "WAKE CUP! Kuro",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN029",
+    "nombre": "Clown Crew Flair",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN030",
+    "nombre": "Archfiend Matriarch",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN031",
+    "nombre": "Starving Venom Wing Dragon",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN032",
+    "nombre": "Clown Crew Diabolo",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN033",
+    "nombre": "Weaver of Fairy Tails",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN034",
+    "nombre": "Teller of Fairy Tails",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN034",
+    "nombre": "Teller of Fairy Tails",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN035",
+    "nombre": "Hecahands Dandalos",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN036",
+    "nombre": "The Crimson King",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN036",
+    "nombre": "The Crimson King",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN037",
+    "nombre": "Crimson Blade Dragon",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN037",
+    "nombre": "Crimson Blade Dragon",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN038",
+    "nombre": "Red Hypernova Dragon",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN039",
+    "nombre": "Predaplant Bal Teah",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN040",
+    "nombre": "Clown Crew Meteor",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN041",
+    "nombre": "Kewl Tune Crackle",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN041",
+    "nombre": "Kewl Tune Crackle",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN042",
+    "nombre": "Kewl Tune B2B",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN043",
+    "nombre": "Superdreadnought Rail Cannon Gustav Rocket",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN043",
+    "nombre": "Superdreadnought Rail Cannon Gustav Rocket",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN044",
+    "nombre": "Superdreadnought Rail Cannon Flying Launcher",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN044",
+    "nombre": "Superdreadnought Rail Cannon Flying Launcher",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN045",
+    "nombre": "DoomZ XIII Over - Graflareio",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN045",
+    "nombre": "DoomZ XIII Over - Graflareio",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN046",
+    "nombre": "Clown Crew Fiends",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN047",
+    "nombre": "Fairy Tail - Wiccat",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN048",
+    "nombre": "Dark Ceruvim Irisfil",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN049",
+    "nombre": "Breachborrel Dragon",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN050",
+    "nombre": "Charmer Quartet in Bloom",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN050",
+    "nombre": "Charmer Quartet in Bloom",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN051",
+    "nombre": "Rahamu, Envoy of the Sacred Tome",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN052",
+    "nombre": "Crimson Call",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN053",
+    "nombre": "Junk Signal",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN054",
+    "nombre": "Exceptional Schedule",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN054",
+    "nombre": "Exceptional Schedule",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN055",
+    "nombre": "Predaprimitive",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN056",
+    "nombre": "Prohibited Power Patron Portal - Terminus",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN057",
+    "nombre": "Plundered Power Patron Plane - Vidolia",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN058",
+    "nombre": "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN059",
+    "nombre": "Clown Crew Rehearsal",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN060",
+    "nombre": "Clown Crew Matinee Operatics",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN061",
+    "nombre": "Clown Crew Malabarisme",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN062",
+    "nombre": "Once Upon a Fairy Tail",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN063",
+    "nombre": "Fairy Tail Ball",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN064",
+    "nombre": "Tails of the Fairy Tails",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN065",
+    "nombre": "Enneacraft Reset",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN066",
+    "nombre": "Possessed Destiny",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN067",
+    "nombre": "Archfiend's Usurpation",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN068",
+    "nombre": "H.E.R.O. Flash!",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN069",
+    "nombre": "Super Duper Polymerization",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN070",
+    "nombre": "Fifty Fifty?",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN071",
+    "nombre": "King's Resonance",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN072",
+    "nombre": "Artmage Impasto -Recapture-",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN073",
+    "nombre": "Clown Crew Soiree Operations",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN074",
+    "nombre": "Clown Crew New Face",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN075",
+    "nombre": "Hecahands Bait",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN076",
+    "nombre": "Northern Crossfire",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN077",
+    "nombre": "Dominus Spark",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN077",
+    "nombre": "",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN078",
+    "nombre": "Summon Shock",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN079",
+    "nombre": "Solemn Accusation",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN079",
+    "nombre": "Solemn Accusation",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN080",
+    "nombre": "Solving for Pendulum",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN081",
+    "nombre": "Gaming Gamer GG",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN082",
+    "nombre": "Fata Dragna",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN082",
+    "nombre": "Fata Dragna",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN083",
+    "nombre": "Shade the Obscure",
+    "rareza": "Secret Rare"
+  },
+  {
+    "id": "BLZD-EN083",
+    "nombre": "Shade the Obscure",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN084",
+    "nombre": "VIP Whale",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN085",
+    "nombre": "Genia of the Ring",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN086",
+    "nombre": "Checkker",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN087",
+    "nombre": "Rustin Mammoth",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN088",
+    "nombre": "Officiating Reverie",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN089",
+    "nombre": "Officiator of Doom Samuel",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN090",
+    "nombre": "GMX Partner Selandea",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN090",
+    "nombre": "GMX Partner Selandea",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN091",
+    "nombre": "GMX Suppression Squad",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN092",
+    "nombre": "Evolved Daneen",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN093",
+    "nombre": "GMX - COMPREX",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN093",
+    "nombre": "GMX - COMPREX",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN094",
+    "nombre": "GMX 55th Experiment Report",
+    "rareza": "Ultra Rare"
+  },
+  {
+    "id": "BLZD-EN094",
+    "nombre": "GMX 55th Experiment Report",
+    "rareza": "Starlight Rare"
+  },
+  {
+    "id": "BLZD-EN095",
+    "nombre": "GMX Lab #5",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN096",
+    "nombre": "Anti-GMX Final Experiment",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN097",
+    "nombre": "Draluvice the Diabolic Dragon Fortress",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN098",
+    "nombre": "Miracle Ejector",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN099",
+    "nombre": "Flametongue the Burning Blade",
+    "rareza": "Super Rare"
+  },
+  {
+    "id": "BLZD-EN100",
+    "nombre": "Subspace Battle",
+    "rareza": "Common"
+  },
+  {
+    "id": "BLZD-EN101",
+    "nombre": "Red Nova Dragon\" (alternate artwork)",
+    "rareza": "Starlight Rare"
+  }
+]

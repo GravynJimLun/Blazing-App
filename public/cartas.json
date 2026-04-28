@@ -2,631 +2,876 @@
   {
     "id": "BLZD-EN001",
     "nombre": "Darkness Resonator",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN002",
     "nombre": "Power Vice Dragon",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "6,300.00",
+    "omega": "8,190.00"
   },
   {
-    "id": "BLZD-EN002",
+    "id": "BLZD-EN002s",
     "nombre": "Power Vice Dragon",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "25,100.00",
+    "omega": "32,630.00"
   },
   {
     "id": "BLZD-EN003",
     "nombre": "Fiend Piece Golem",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN004",
     "nombre": "Red Nova Dragon/Assault Mode",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN005",
     "nombre": "Assault Sonic Warrior",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN006",
     "nombre": "Heavy Armored Knight Babeldecker",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN007",
     "nombre": "Night Train Blue Traveler",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN008",
     "nombre": "Predaplant Lilizard",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN009",
     "nombre": "Predaplant Longinephila",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN010",
     "nombre": "Vidolium the Unstable Power Patron of Unity",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 500,
+    "omega": 750
   },
   {
     "id": "BLZD-EN011",
     "nombre": "Nervedo the Shadebeast Power Patron",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "4,400.00",
+    "omega": "6,600.00"
   },
   {
-    "id": "",
+    "id": "BLZD-EN011s",
     "nombre": "Nervedo the Shadebeast Power Patron",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "31,400.00",
+    "omega": "40,820.00"
   },
   {
     "id": "BLZD-EN012",
     "nombre": "Jupredo the Shademachine Power Patron",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN013",
     "nombre": "Junoldo the Shadespirit Power Patron",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "2,500.00",
+    "omega": "3,750.00"
   },
   {
-    "id": "BLZD-EN013",
+    "id": "BLZD-EN013s",
     "nombre": "Junoldo the Shadespirit Power Patron",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "31,100.00",
+    "omega": "40,430.00"
   },
   {
     "id": "BLZD-EN014",
     "nombre": "Elfnote Regina",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "21,900.00",
+    "omega": "28,470.00"
   },
   {
-    "id": "BLZD-EN014",
+    "id": "BLZD-EN014s",
     "nombre": "Elfnote Regina",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "81,500.00",
+    "omega": "105,950.00"
   },
   {
     "id": "BLZD-EN015",
     "nombre": "Clown Crew Biancaviso",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 500,
+    "omega": 750
   },
   {
     "id": "BLZD-EN016",
     "nombre": "Fairy Tail - Matchgiru",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "1,900.00",
+    "omega": "2,850.00"
   },
   {
-    "id": "BLZD-EN016",
+    "id": "BLZD-EN016s",
     "nombre": "Fairy Tail - Matchgiru",
-    "rareza": "Ultra Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "15,700.00",
+    "omega": "20,410.00"
   },
   {
     "id": "BLZD-EN017",
     "nombre": "Mimighoul Flower",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN018",
     "nombre": "Hecahands Mankibuel",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN019",
-    "nombre": "Trito Enneacraft - \"exapatisIA\"",
-    "rareza": "Common"
+    "nombre": "Trito Enneacraft - exapatisIA",
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN020",
     "nombre": "Enneacraft - Atil.SPIA",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN021",
     "nombre": "Kewl Tune Rotary",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "20,100.00",
+    "omega": "30,150.00"
   },
   {
-    "id": "BLZD-EN021",
+    "id": "BLZD-EN021s",
     "nombre": "Kewl Tune Rotary",
-    "rareza": "Ultra Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "125,400.00",
+    "omega": "163,020.00"
   },
   {
     "id": "BLZD-EN022",
     "nombre": "Spiritual Art Familiars",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN023",
     "nombre": "Fleeting Phantom Mask Master",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN024",
     "nombre": "Fydraulis Harmonia",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "53,300.00",
+    "omega": "69,290.00"
   },
   {
-    "id": "BLZD-EN024",
+    "id": "BLZD-EN024s",
     "nombre": "Fydraulis Harmonia",
-    "rareza": "Secret Rare"
-  },
-  {
-    "id": "BLZD-EN024",
-    "nombre": "Fydraulis Harmonia",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "187,800.00",
+    "omega": "244,140.00"
   },
   {
     "id": "BLZD-EN025",
     "nombre": "Diabrocken the Ominous Specter",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN026",
     "nombre": "Convex Knight",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN027",
     "nombre": "Princess Dracaena, the Thirsting Tree",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "6,300.00",
+    "omega": "8,190.00"
   },
   {
-    "id": "",
-    "nombre": "",
-    "rareza": "Starlight Rare"
+    "id": "BLZD-EN027s",
+    "nombre": "Princess Dracaena, the Thirsting Tree",
+    "rareza": "Starlight Rare",
+    "preventa": "31,400.00",
+    "omega": "40,820.00"
   },
   {
     "id": "BLZD-EN028",
     "nombre": "WAKE CUP! Kuro",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN029",
     "nombre": "Clown Crew Flair",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 500,
+    "omega": 750
   },
   {
     "id": "BLZD-EN030",
     "nombre": "Archfiend Matriarch",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN031",
     "nombre": "Starving Venom Wing Dragon",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN032",
     "nombre": "Clown Crew Diabolo",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN033",
     "nombre": "Weaver of Fairy Tails",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN034",
     "nombre": "Teller of Fairy Tails",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "3,200.00",
+    "omega": "4,160.00"
   },
   {
-    "id": "BLZD-EN034",
+    "id": "BLZD-EN034s",
     "nombre": "Teller of Fairy Tails",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "15,700.00",
+    "omega": "20,410.00"
   },
   {
     "id": "BLZD-EN035",
     "nombre": "Hecahands Dandalos",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN036",
     "nombre": "The Crimson King",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "6,300.00",
+    "omega": "8,190.00"
   },
   {
-    "id": "BLZD-EN036",
+    "id": "BLZD-EN036s",
     "nombre": "The Crimson King",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "31,400.00",
+    "omega": "40,820.00"
   },
   {
     "id": "BLZD-EN037",
     "nombre": "Crimson Blade Dragon",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "1,900.00",
+    "omega": "2,850.00"
   },
   {
-    "id": "BLZD-EN037",
+    "id": "BLZD-EN037s",
     "nombre": "Crimson Blade Dragon",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "25,100.00",
+    "omega": "32,630.00"
   },
   {
     "id": "BLZD-EN038",
     "nombre": "Red Hypernova Dragon",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN039",
     "nombre": "Predaplant Bal Teah",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN040",
     "nombre": "Clown Crew Meteor",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN041",
     "nombre": "Kewl Tune Crackle",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "3,200.00",
+    "omega": "4,800.00"
   },
   {
-    "id": "BLZD-EN041",
+    "id": "BLZD-EN041s",
     "nombre": "Kewl Tune Crackle",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "40,800.00",
+    "omega": "53,040.00"
   },
   {
     "id": "BLZD-EN042",
     "nombre": "Kewl Tune B2B",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": "1,300.00",
+    "omega": "1,950.00"
   },
   {
     "id": "BLZD-EN043",
     "nombre": "Superdreadnought Rail Cannon Gustav Rocket",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "1,900.00",
+    "omega": "2,850.00"
   },
   {
-    "id": "BLZD-EN043",
+    "id": "BLZD-EN043s",
     "nombre": "Superdreadnought Rail Cannon Gustav Rocket",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "18,800.00",
+    "omega": "24,440.00"
   },
   {
     "id": "BLZD-EN044",
     "nombre": "Superdreadnought Rail Cannon Flying Launcher",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "1,900.00",
+    "omega": "2,850.00"
   },
   {
-    "id": "BLZD-EN044",
+    "id": "BLZD-EN044s",
     "nombre": "Superdreadnought Rail Cannon Flying Launcher",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "18,800.00",
+    "omega": "24,440.00"
   },
   {
     "id": "BLZD-EN045",
     "nombre": "DoomZ XIII Over - Graflareio",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "3,200.00",
+    "omega": "4,800.00"
   },
   {
-    "id": "BLZD-EN045",
+    "id": "BLZD-EN045s",
     "nombre": "DoomZ XIII Over - Graflareio",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "31,400.00",
+    "omega": "40,820.00"
   },
   {
     "id": "BLZD-EN046",
     "nombre": "Clown Crew Fiends",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN047",
     "nombre": "Fairy Tail - Wiccat",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN048",
     "nombre": "Dark Ceruvim Irisfil",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN049",
     "nombre": "Breachborrel Dragon",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN050",
     "nombre": "Charmer Quartet in Bloom",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "1,300.00",
+    "omega": "1,950.00"
   },
   {
-    "id": "BLZD-EN050",
+    "id": "BLZD-EN050s",
     "nombre": "Charmer Quartet in Bloom",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "15,700.00",
+    "omega": "20,410.00"
   },
   {
     "id": "BLZD-EN051",
     "nombre": "Rahamu, Envoy of the Sacred Tome",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN052",
     "nombre": "Crimson Call",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN053",
     "nombre": "Junk Signal",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN054",
     "nombre": "Exceptional Schedule",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "6,300.00",
+    "omega": "8,190.00"
   },
   {
-    "id": "BLZD-EN054",
+    "id": "BLZD-EN054s",
     "nombre": "Exceptional Schedule",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "25,100.00",
+    "omega": "32,630.00"
   },
   {
     "id": "BLZD-EN055",
     "nombre": "Predaprimitive",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN056",
     "nombre": "Prohibited Power Patron Portal - Terminus",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN057",
     "nombre": "Plundered Power Patron Plane - Vidolia",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN058",
-    "nombre": "DoomZ Command \"A.D.R.A.S.T.E.I.A.\"",
-    "rareza": "Common"
+    "nombre": "DoomZ Command A.D.R.A.S.T.E.I.A.",
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN059",
     "nombre": "Clown Crew Rehearsal",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 500,
+    "omega": 750
   },
   {
     "id": "BLZD-EN060",
     "nombre": "Clown Crew Matinee Operatics",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN061",
     "nombre": "Clown Crew Malabarisme",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 500,
+    "omega": 750
   },
   {
     "id": "BLZD-EN062",
     "nombre": "Once Upon a Fairy Tail",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN063",
     "nombre": "Fairy Tail Ball",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN064",
     "nombre": "Tails of the Fairy Tails",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN065",
     "nombre": "Enneacraft Reset",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN066",
     "nombre": "Possessed Destiny",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN067",
     "nombre": "Archfiend's Usurpation",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN068",
     "nombre": "H.E.R.O. Flash!",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN069",
     "nombre": "Super Duper Polymerization",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 500,
+    "omega": 750
   },
   {
     "id": "BLZD-EN070",
     "nombre": "Fifty Fifty?",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN071",
     "nombre": "King's Resonance",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN072",
     "nombre": "Artmage Impasto -Recapture-",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN073",
     "nombre": "Clown Crew Soiree Operations",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN074",
     "nombre": "Clown Crew New Face",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN075",
     "nombre": "Hecahands Bait",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN076",
     "nombre": "Northern Crossfire",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN077",
     "nombre": "Dominus Spark",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "28,200.00",
+    "omega": "36,660.00"
   },
   {
-    "id": "BLZD-EN077",
-    "nombre": "",
-    "rareza": "Starlight Rare"
+    "id": "BLZD-EN077s",
+    "nombre": "Dominus Spark",
+    "rareza": "Starlight Rare",
+    "preventa": "94,100.00",
+    "omega": "122,330.00"
   },
   {
     "id": "BLZD-EN078",
     "nombre": "Summon Shock",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN079",
     "nombre": "Solemn Accusation",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "18,800.00",
+    "omega": "24,440.00"
   },
   {
-    "id": "BLZD-EN079",
+    "id": "BLZD-EN079s",
     "nombre": "Solemn Accusation",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "62,700.00",
+    "omega": "81,510.00"
   },
   {
     "id": "BLZD-EN080",
     "nombre": "Solving for Pendulum",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN081",
     "nombre": "Gaming Gamer GG",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN082",
     "nombre": "Fata Dragna",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "2,600.00",
+    "omega": "3,900.00"
   },
   {
-    "id": "BLZD-EN082",
+    "id": "BLZD-EN082s",
     "nombre": "Fata Dragna",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "25,100.00",
+    "omega": "32,630.00"
   },
   {
     "id": "BLZD-EN083",
     "nombre": "Shade the Obscure",
-    "rareza": "Secret Rare"
+    "rareza": "Secret Rare",
+    "preventa": "12,600.00",
+    "omega": "16,380.00"
   },
   {
-    "id": "BLZD-EN083",
+    "id": "BLZD-EN083s",
     "nombre": "Shade the Obscure",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "34,500.00",
+    "omega": "44,850.00"
   },
   {
     "id": "BLZD-EN084",
     "nombre": "VIP Whale",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN085",
     "nombre": "Genia of the Ring",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN086",
     "nombre": "Checkker",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN087",
     "nombre": "Rustin Mammoth",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN088",
     "nombre": "Officiating Reverie",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN089",
     "nombre": "Officiator of Doom Samuel",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN090",
     "nombre": "GMX Partner Selandea",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "3,200.00",
+    "omega": "4,800.00"
   },
   {
-    "id": "BLZD-EN090",
+    "id": "BLZD-EN090s",
     "nombre": "GMX Partner Selandea",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "31,400.00",
+    "omega": "40,820.00"
   },
   {
     "id": "BLZD-EN091",
     "nombre": "GMX Suppression Squad",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN092",
     "nombre": "Evolved Daneen",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN093",
     "nombre": "GMX - COMPREX",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "1,900.00",
+    "omega": "2,850.00"
   },
   {
-    "id": "BLZD-EN093",
+    "id": "BLZD-EN093s",
     "nombre": "GMX - COMPREX",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "18,800.00",
+    "omega": "24,440.00"
   },
   {
     "id": "BLZD-EN094",
     "nombre": "GMX 55th Experiment Report",
-    "rareza": "Ultra Rare"
+    "rareza": "Ultra Rare",
+    "preventa": "2,600.00",
+    "omega": "3,900.00"
   },
   {
-    "id": "BLZD-EN094",
+    "id": "BLZD-EN094s",
     "nombre": "GMX 55th Experiment Report",
-    "rareza": "Starlight Rare"
+    "rareza": "Starlight Rare",
+    "preventa": "25,100.00",
+    "omega": "32,630.00"
   },
   {
     "id": "BLZD-EN095",
     "nombre": "GMX Lab #5",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN096",
     "nombre": "Anti-GMX Final Experiment",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN097",
     "nombre": "Draluvice the Diabolic Dragon Fortress",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
     "id": "BLZD-EN098",
     "nombre": "Miracle Ejector",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 400,
+    "omega": 600
   },
   {
     "id": "BLZD-EN099",
     "nombre": "Flametongue the Burning Blade",
-    "rareza": "Super Rare"
+    "rareza": "Super Rare",
+    "preventa": 500,
+    "omega": 750
   },
   {
     "id": "BLZD-EN100",
     "nombre": "Subspace Battle",
-    "rareza": "Common"
+    "rareza": "Common",
+    "preventa": 200,
+    "omega": 300
   },
   {
-    "id": "BLZD-EN101",
-    "nombre": "Red Nova Dragon\" (alternate artwork)",
-    "rareza": "Starlight Rare"
+    "id": "BLZD-EN101s",
+    "nombre": "Red Nova Dragon (alternate artwork)",
+    "rareza": "Starlight Rare",
+    "preventa": "37,700.00",
+    "omega": "49,010.00"
   }
 ]
